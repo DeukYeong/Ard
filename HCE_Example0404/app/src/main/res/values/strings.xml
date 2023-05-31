@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Pn532 NFC</string>
+
+    <string name="service_description">IKSUNG HCE Test</string>
+    <string name="aid_description">IKSUNG HCE Test AID</string>
+    <string name="header">NFC HCE User Key</string>
+    <string name="set_ndef_button">Set tag value</string>
+    <string name="description">This example emulates a NFC HCE APDU SELECT command.</string>
+
+</resources>
